@@ -1,4 +1,4 @@
-# Turborepo starter
+# Paytm Clone App created using TurboRepo
 
 This is an official starter Turborepo.
 
